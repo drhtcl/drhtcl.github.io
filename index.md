@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Compelted projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Did you got your daily dose of Lead today?](https://htmlpreview.github.io/?https://raw.githubusercontent.com/fabianofrombrazil/GEMS/main/GEMS_notebook.html)
+<img src="images/boxplot.gif"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
