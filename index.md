@@ -8,7 +8,7 @@
 <img src="images/boxplot.gif"/>
 
 ---
-[IS IT POSSIBLE TO TRAVEL AROUND THE WORLD FOR US$0.06/Km?](/pdf/flights.pdf)
+[Is it possible to travel around the world with US$0.06/km](/pdf/flights.pdf)
 <img src="images/travel.jpeg?raw=true"/>
 
 ---
