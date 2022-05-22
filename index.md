@@ -9,7 +9,7 @@
 
 ---
 [IS IT POSSIBLE TO TRAVEL AROUND THE WORLD FOR US$0.06/Km?](/pdf/flights.pdf)
-<img src="images/travel.jpg?raw=true"/>
+<img src="images/travel.jpeg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
