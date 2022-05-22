@@ -2,14 +2,14 @@
 
 ---
 
-### Compelted projects
+### Completed projects
 
 [Did you got your daily dose of Lead today?](https://htmlpreview.github.io/?https://raw.githubusercontent.com/fabianofrombrazil/GEMS/main/GEMS_notebook.html)
 <img src="images/boxplot.gif"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[IS IT POSSIBLE TO TRAVEL AROUND THE WORLD FOR US$0.06/Km?](/pdf/flights.pdf)
+<img src="images/travel.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
@@ -30,6 +30,3 @@
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
