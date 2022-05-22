@@ -10,7 +10,7 @@ Using the GEMS/WHO database to find the most lead contaminated food and if Anali
 
 ---
 [Is it possible to travel around the world with US$0.06/km](/pdf/Flights.pdf)<br>
-Finding the lowest possible airfare and the strange precing strategies from air company
+Finding the lowest possible airfare and the strange pricing strategies from air company
 <img src="images/travel.jpeg?raw=true"/>
 
 ---
