@@ -1,12 +1,16 @@
-title: Fabiano Silva 2344 # your name (or website title) here
+title: Fabiano Silva # your name (or website title) here
 logo: "/images/rosto.png"
 # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Chemsitry Lab Technician with 15 years experience <br>
+  Techniques: GC-MS, HPLC, ICP-OES <br>
+  Matrices: Water, Food, Drugs, Blood 
+    <br><br>
+  Data Analyst Working with:
+  R, SQL, Tableau public, Inference and visualization 
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/fabiano-silva-225449195/">View My LinkedIn Profile</a> 
+ email: fabianofrombrazil@gmail.com
   
 
 theme: jekyll-theme-minimal
