@@ -2,10 +2,10 @@ title: Fabiano Silva # your name (or website title) here
 logo: "/images/rosto.png"
 # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Chemsitry Lab Technician with 15 years experience wtih GC-MS, HPLC, ICP-OES
+  Chemistry Lab Technician with 15 years experience with GC-MS, HPLC, ICP-OES
   Matrices: Water, Food, Drugs, Blood
   Data Analyst:
-  R, SQL, Tableau public, Inference and visualization 
+  R, SQL, Tableau public, Inference and Visualization 
   <a href="https://www.linkedin.com/in/fabiano-silva-225449195/">View My LinkedIn Profile</a> 
 
 theme: jekyll-theme-minimal
