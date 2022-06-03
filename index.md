@@ -5,7 +5,7 @@
 ### Completed projects
 
 [Did you got your daily dose of Lead today?](https://htmlpreview.github.io/?https://raw.githubusercontent.com/fabianofrombrazil/GEMS/main/GEMS_notebook.html)<br>
-Using the GEMS/WHO database to find the most lead contaminated food and if Analitical Quality tools are useful
+Using the GEMS/WHO database to find the most lead contaminated food and if Analytical Quality tools are useful
 <img src="images/boxplot.gif"/>
 
 ---
