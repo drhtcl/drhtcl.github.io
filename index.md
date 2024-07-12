@@ -29,7 +29,7 @@ Project focus on understanding were most environmental fines are applied and in 
 <img src="images/Multas.gif?raw=true"/>
 
 ---
-[Is it possible to travel around the world with US$0.06/km]([/pdf/Flights.pdf](https://rpubs.com/fabiano_silva/Volta))<br>
+[Is it possible to travel around the world with US$0.06/km]([/pdf/Flights.pdf]<br>
 Finding the lowest possible airfare and the strange pricing strategies from air companies
 <img src="images/travel.jpeg?raw=true"/>
 
