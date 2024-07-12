@@ -19,8 +19,21 @@ A study on intermediate checks on laboratory instruments during a 10 year period
 <img src="images/calib.png?raw=true"/>
 
 ---
+[Is this food safe? Within limits?? ](https://htmlpreview.github.io/?https://app.powerbi.com/links/VYubI8GFxt?ctid=7c1b4644-0203-4648-9b13-aacaa1477d13&pbi_source=linkShare&bookmarkGuid=8909e82e-41cc-4d2f-9fd4-18fa43e61747)<br>
+BI dashboard on results of Pesticides and Agrotoxics analysis on samples in 8 Brazilian foods
+<img src="images/BI.gif?raw=true"/>
 
+---
+[How much protein a Brazilian have per day (Portuguese only) ](https://htmlpreview.github.io/?https://rpubs.com/fabiano_silva/POF)<br>
+Study trying to reproduce IBGE data on Brazilian population protein intake
+<img src="images/proteina.gif?raw=true"/>
 
+---
+[Is this food safe? Within limits?? ](https://htmlpreview.github.io/?https://app.powerbi.com/links/VYubI8GFxt?ctid=7c1b4644-0203-4648-9b13-aacaa1477d13&pbi_source=linkShare&bookmarkGuid=8909e82e-41cc-4d2f-9fd4-18fa43e61747)<br>
+BI dashboard on results of Pesticides and Agrotoxics analysis on samples in 8 Brazilian foods
+<img src="images/BI.gif?raw=true"/>
+
+---
 
 
 
