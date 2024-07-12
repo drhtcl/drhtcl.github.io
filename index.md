@@ -29,9 +29,9 @@ Study trying to reproduce IBGE data on Brazilian population protein intake
 <img src="images/proteina.gif?raw=true"/>
 
 ---
-[Is this food safe? Within limits?? ](https://htmlpreview.github.io/?https://app.powerbi.com/links/VYubI8GFxt?ctid=7c1b4644-0203-4648-9b13-aacaa1477d13&pbi_source=linkShare&bookmarkGuid=8909e82e-41cc-4d2f-9fd4-18fa43e61747)<br>
-BI dashboard on results of Pesticides and Agrotoxics analysis on samples in 8 Brazilian foods
-<img src="images/BI.gif?raw=true"/>
+[Data Wrangling: Analysing fines in the State of Minas Gerais (Portuguese only) ](https://htmlpreview.github.io/?https://rpubs.com/fabiano_silva/Multas)<br>
+Project focus on understanding were most environmental fines are applied and in which conditions 
+<img src="images/Multas.gif?raw=true"/>
 
 ---
 
