@@ -9,11 +9,6 @@ Using the GEMS/WHO database to find the most lead contaminated food and if Analy
 <img src="images/boxplot.gif"/>
 
 ---
-[Is it possible to travel around the world with US$0.06/km](/pdf/Flights.pdf)<br>
-Finding the lowest possible airfare and the strange pricing strategies from air company
-<img src="images/travel.jpeg?raw=true"/>
-
----
 [Were all my checks useful during these 10 years??](https://htmlpreview.github.io/?https://raw.githubusercontent.com/fabianofrombrazil/Calibration/main/calib2.html)<br>
 A study on intermediate checks on laboratory instruments during a 10 year period under ISO 17025 
 <img src="images/calib.png?raw=true"/>
@@ -34,8 +29,11 @@ Project focus on understanding were most environmental fines are applied and in 
 <img src="images/Multas.gif?raw=true"/>
 
 ---
+[Is it possible to travel around the world with US$0.06/km]([/pdf/Flights.pdf](https://rpubs.com/fabiano_silva/Volta))<br>
+Finding the lowest possible airfare and the strange pricing strategies from air company
+<img src="images/travel.jpeg?raw=true"/>
 
-
+---
 
 
 
