@@ -24,7 +24,7 @@ Study trying to reproduce IBGE data on Brazilian population protein intake
 <img src="images/proteina.gif?raw=true"/>
 
 ---
-[Data Wrangling: Analysing fines in the State of Minas Gerais (Portuguese only) ](https://htmlpreview.github.io/?https://rpubs.com/fabiano_silva/Multas)<br>
+[Data Wrangling: Exploring fines values in the State of Minas Gerais (Portuguese only) ](https://htmlpreview.github.io/?https://rpubs.com/fabiano_silva/Multas)<br>
 Project focus on understanding were most environmental fines are applied and in which conditions 
 <img src="images/Multas.gif?raw=true"/>
 
